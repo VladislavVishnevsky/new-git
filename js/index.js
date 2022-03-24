@@ -32,4 +32,6 @@ const nextTime = () => {
 nextTime();
 setInterval(nextTime, 1000);
 
+console.log('added console log HA')
 
+let bla = 12222;
